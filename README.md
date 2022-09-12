@@ -1,2 +1,2 @@
 # CRSExtractor
-CRSExtractor: Configuration Read Sites Extraction based on Intra-procedural Constant Propagation
+CRSExtractor: Configuration Option Read Sites Extraction based on Intra-procedural String Constant Propagation
