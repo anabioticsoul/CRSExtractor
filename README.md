@@ -5,8 +5,8 @@ CRSExtractor is a Configuration Option Read Sites Extraction tool based on Intra
 ### Prerequisite
 
 - Strictly required: 
-- Jdk 17
-- [Tai-e](https://github.com/pascal-lab/Tai-e)
+1. Jdk 17
+2. [Tai-e](https://github.com/pascal-lab/Tai-e)
 
 ### Cite this work
 Liu, Yuhao, et al. "CRSExtractor: Automated configuration option read sites extraction towards IoT cloud infrastructure." Heliyon 9.4 (2023).
